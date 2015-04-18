@@ -1,0 +1,8 @@
+{
+  "name": "infinigon-tag",
+  "version": "0.0.1",
+  "description": "A module which creates an Infinigon game in tag mode.",
+  "dependencies": {
+    "infinigon": "*"
+  }
+}
